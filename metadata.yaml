@@ -1,0 +1,37 @@
+_repo: PintoricchioThe-Great-Masters-in-Painting-and-Sculpture_41743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41743-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillipps, Evelyn March
+    alias: Phillips, Evelyn March
+    deathdate: 1915
+    gutenberg_agent_id: '34371'
+    url: http://www.gutenberg.org/2009/agents/34371
+  editor:
+    agent_name: Williamson, George Charles
+    aliases:
+    - Williamson, George C.
+    - Williamson, G. C. (George Charles)
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '38320'
+    url: http://www.gutenberg.org/2009/agents/38320
+description: ''
+gutenberg_issued: '2012-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41743'
+  lccn: '02012724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The great masters in painting and sculpture
+subjects:
+- !lcsh 'Pintoricchio, approximately 1454-1513'
+- !lcc 'ND'
+title: Pintoricchio
+url: http://www.gutenberg.org/ebooks/41743
